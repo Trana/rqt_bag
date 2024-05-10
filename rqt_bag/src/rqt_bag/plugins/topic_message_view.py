@@ -28,8 +28,8 @@
 
 from .message_view import MessageView
 
-from python_qt_binding.QtGui import QIcon
-from python_qt_binding.QtWidgets import QAction, QToolBar
+from python_qt_binding.QtGui import QIcon, QAction
+from python_qt_binding.QtWidgets import QToolBar
 from rclpy.time import Time
 
 
