@@ -2,8 +2,8 @@
 Changelog for package rqt_bag_plugins
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2024-06-17)
+------------------
 * Adapted to rosbag2_py (`#156 <https://github.com/ros-visualization/rqt_bag/issues/156>`_)
 * Fixed image timeline renderer (`#158 <https://github.com/ros-visualization/rqt_bag/issues/158>`_)
 * Contributors: Alejandro Hernández Cordero
